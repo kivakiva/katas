@@ -1,0 +1,2 @@
+curious if i overcoded 14 (thecalculate change )
+curious if there is a cleaner way for 12 (the bakery recipe) with fewer loops
